@@ -15,3 +15,8 @@ Kothari-Tirth_hw3_secondPhaseOfApp.html -----> the main index.html file
 new.html ------> Takes user info
 new1.html ------> Takes input for portfolio
 new2.html -------> Gives you your location
+
+
+References used are:
+[1] https://www.mightyforms.com/blog/how-to-send-form-data-to-google-sheets
+[2] https://dev.to/codebubb/how-to-get-a-user-s-location-with-javascript-362o
