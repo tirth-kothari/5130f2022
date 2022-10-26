@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Your Location</title>
+</head>
+<body>
+    <script>
+        if ("geolocation" in navigator) {
+      navigator.geolocation.getCurrentPosition(
+       function success(position) {
+         document.write('latitude', position.coords.latitude, 
+                     'longitude', position.coords.longitude);
+       },
+       function error(error_message) {
+        document.write('An error has occured while retrieving location', error_message)
+      })
+           
+        } 
+        else {
+      document.write('geolocation is not enabled on this browser')
+    }
+    </script>
+<br>
+<br>
+</body>
+</html>
