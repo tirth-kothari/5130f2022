@@ -8,3 +8,10 @@ Here are the links:
 For user DATA: https://docs.google.com/spreadsheets/d/1epwww-VrSNo3zN_OthaUat0cA1afc-weas6tqbfcTLI/edit?usp=sharing
 For user PORTFOLIO: https://docs.google.com/spreadsheets/d/1y79zUPIOHbuYKKsn5H76WYlDlwV7Jl3Omcsk8dUmJd8/edit?usp=sharing
 To see the location, go on to the button in bottom and give access to know your location.
+
+
+File Description:
+Kothari-Tirth_hw3_secondPhaseOfApp.html -----> the main index.html file
+new.html ------> Takes user info
+new1.html ------> Takes input for portfolio
+new2.html -------> Gives you your location
