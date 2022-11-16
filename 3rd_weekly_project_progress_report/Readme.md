@@ -15,7 +15,7 @@ The main components I worked on this week is:
 
 Last week I worked on scraping the data from Amazon shopping website using puppeteer, this time I worked on displaying the scraped data on my web page. For that, I need to setup the backend environment and integrate it with frontend. So worked on both of them, like setting up environment and integrating it with frontend.
 
-After integration, I was able to successfully display the data on my website. Also integrated the filter component in the project. Still, there’s an issue with span tag (<span>) in display part which I’m still working on. 
+After integration, I was able to successfully display the data on my website. Also integrated the filter component in the project. Still, there’s an issue with span tag (span<>) in display part which I’m still working on. 
 
 ## What Next: 
 To work on the issue in my display part of my webpage. Start working on scraping of other websites and also to start working on the other modules to increase the functionality.
