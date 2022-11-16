@@ -22,6 +22,7 @@ To work on the issue in my display part of my webpage. Start working on scraping
 
 ## Here’s how the webpage looks like:
 (Note: The webpage may change as we add other websites and functionalities)
+![text](https://github.com/tirth-kothari/5130f2022/blob/main/3rd_weekly_project_progress_report/Screenshot%202022-11-15%20150336.png)
 
 ## References:
 [1] https://www.analyticsvidhya.com/blog/2020/10/web-scraping-using-node-js/  
