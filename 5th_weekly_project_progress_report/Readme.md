@@ -22,6 +22,6 @@ Here's the screenshot of fetching the data from bjs.com
 To solve the issue of Memory leak and the max listener error. Once it’s done, need to work on the display part of other websites apart from Amazon. Also to work on the page evaluation of bjs.com website.
 
 ## References:
-[1]https://stackoverflow.com/questions/59809253/node-js-simple-get-with-request-module-throwing-possible-eventemitter-memory-l  
+[1] https://stackoverflow.com/questions/59809253/node-js-simple-get-with-request-module-throwing-possible-eventemitter-memory-l  
 [2] https://www.scrapingbee.com/blog/web-scraping-walmart/  
-[3] https://github.com/puppeteer/puppeteer/issues/1944
+[3] https://github.com/puppeteer/puppeteer/issues/1944 
