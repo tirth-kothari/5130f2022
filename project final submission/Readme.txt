@@ -1,4 +1,7 @@
+All the details regarding the project is mention the project report.
+The user manual is also uploaded to guide step by step to run the application.
 
+References:
 [1] https://www.fierceretail.com/digital/80-shoppers-do-online-price-comparison-before-store-shopping 
 [2] https://saleslion.io/ecommerce-statistics/65-percent-of-shoppers-look-up-price-comparisons-on-their-mobile-device-while-in-a-physical-store/ 
 [3] https://www.minderest.com/blog/how-do-consumers-compare-prices-before-purchasing#:~:text=According%20to%20data%20that%20was,best%20price%20on%20the%20market 
